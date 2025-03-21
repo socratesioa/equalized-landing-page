@@ -406,6 +406,10 @@ header {
     max-width: 512px;
     transform: translateY(121px);
   }
+
+  footer {
+    margin-top: 144px;
+  }
 }
 
 /* Footer */
